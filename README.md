@@ -1,13 +1,28 @@
 # 必要パーツ
 
-- CPU（中央演算処理装置）
-- CPUクーラー
+- CPU
+- CPU グリス
+- CPU クーラー
 - マザーボード
-- メモリ (RAM)
+- メモリ（MEM）
 - ストレージ (SSD/HDD)
 - 電源ユニット (PSU)
 - ケース
 - OS
+
+## 現状
+
+| パーツ | 名称 |
+| - | - |
+| CPU | Intel Core i9-10900k |
+| CPU グリス | |
+| CPU クーラー | Noctua NH-U12A |
+| マザーボード | Gigabyte Z490I AORUS ULTRA |
+| メモリ（MEM） | panram DDR4-3200 16GB / SP DDR4-3200 16GB |
+| ストレージ (SSD/HDD) | 512GB |
+| 電源ユニット (PSU) | CORSAIR RM750e 2025 |
+| ケース | MSI MAG FORGE 110R  |
+| OS | Windows 11 Home |
 
 ## CPU一覧（AMD / Intel）
 
